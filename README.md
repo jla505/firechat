@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/jla505/firechat">
     <img src="public/logo192.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -36,13 +36,13 @@
   <p align="center">
     A live chat app built with React and Firebase
     <br />
-    <a href="https://github.com/jla505/chat-app-firebase-live"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/jla505/firechat"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     ·
-    <a href="https://github.com/jla505/chat-app-firebase-live/issues">Report Bug</a>
+    <a href="https://github.com/jla505/firechat/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jla505/chat-app-firebase-live/issues">Request Feature</a>
+    <a href="https://github.com/jla505/firechat/issues">Request Feature</a>
   </p>
 </div>
 
@@ -129,7 +129,7 @@ To get a local copy up and running follow these simple example steps.
 1. Get a free API Key at Google Firestore 
 2. Clone the repo
    ```sh
-   git clone git@github.com:jla505/chat-app-firebase-live.git
+   git clone git@github.com:jla505/firechat.git
    ```
 3. Install NPM packages
    ```sh
@@ -170,7 +170,7 @@ Use this web app to chat with others or experiment with the code!
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/jla505/chat-app-firebase-live/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/jla505/firechat/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -208,11 +208,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@_jimbojl](https://twitter.com/_jimbojl) - jinwoodjin@gmail.com
 
-Project Link: [https://github.com/jla505/chat-app-firebase-live](https://github.com/jla505/chat-app-firebase-live)
+Project Link: [https://github.com/jla505/firechat](https://github.com/jla505/firechat)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
