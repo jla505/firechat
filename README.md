@@ -108,6 +108,7 @@ By combining the power of React for building interactive user interfaces and Fir
 ### Built With
 
 * [![React][React.js]][React-url]
+* [![Firebase][Firebase.com]][Firebase-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -238,3 +239,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [product-screenshot3]: public/Screenshot3.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[Firebase.com]: https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
+[Firebase-url]: https://firebase.google.com/?gad=1&gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8t2asDzDpbc8faGmt2duOrqyMrAMkVL1_EE-ZOY6xe_90xF_6nNgUoaAkuaEALw_wcB&gclsrc=aw.ds
