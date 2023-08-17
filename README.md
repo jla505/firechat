@@ -83,7 +83,7 @@
 [![Product Name Screen Shot][product-screenshot2]](https://example.com)
 [![Product Name Screen Shot][product-screenshot3]](https://example.com)
 
-A web chat app built with React and Firebase utilizes the powerful features of both technologies to create a real-time messaging application. Here's a description of how such an app could be constructed:
+A web chat app built with React and Firebase utilizes the powerful features of both technologies to create a real-time messaging application. 
 
 1. User Authentication: The app would include user authentication functionality using Firebase Authentication. Users would be able to sign up, log in, and log out using social logins such as Google.
 
