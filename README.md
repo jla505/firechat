@@ -145,7 +145,11 @@ To get a local copy up and running follow these simple example steps.
    REACT_APP_MESSAGING_SENDER_ID={senderId}
    REACT_APP_APP_ID={appId}
    ```
-
+5. Npm Start
+   ```sh
+   npm start
+   ```
+   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
